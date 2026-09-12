@@ -1,0 +1,7 @@
+*.asv
+*.m~
+*.mat
+*.slxc
+CAD_Blueprint_Blade_*.csv
+.DS_Store
+Thumbs.db
